@@ -2,3 +2,7 @@ streamlit>=0.88.0
 tensorflow==2.15.1
 numpy>=1.21.0
 matplotlib==3.4.3
+sudo apt-get install zlib1g-dev
+sudo yum install zlib-devel
+
+
